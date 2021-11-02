@@ -1,0 +1,16 @@
+{
+  "name": "jpks-logger",
+  "version": "1.0.0",
+  "description": "Tiny Logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "readme": "README.md",
+  "keywords": [
+    "logger",
+    "tiny"
+  ],
+  "author": "Josef Müller",
+  "license": "MIT"
+}
