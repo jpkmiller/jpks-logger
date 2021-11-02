@@ -21,3 +21,9 @@ logger.get();
 'hh:mm:ss: bar - foobar'
 ] */
 ```
+
+### Testing
+
+```shell
+npm run test
+```
