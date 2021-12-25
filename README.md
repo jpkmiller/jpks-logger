@@ -2,6 +2,8 @@
 
 ## A very small logger that saves what was logged.
 
+[![Tests](https://github.com/jpkmiller/jpks-logger/actions/workflows/node.js.yml/badge.svg)](https://github.com/jpkmiller/jpks-logger/actions/workflows/node.js.yml)
+
 ### Usage
 
 ```javascript
