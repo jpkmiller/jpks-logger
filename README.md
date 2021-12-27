@@ -3,6 +3,7 @@
 ## A very small logger that saves what was logged.
 
 [![Tests](https://github.com/jpkmiller/jpks-logger/actions/workflows/node.js.yml/badge.svg)](https://github.com/jpkmiller/jpks-logger/actions/workflows/node.js.yml)
+[![DeepScan grade](https://deepscan.io/api/teams/16386/projects/19651/branches/513388/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=16386&pid=19651&bid=513388)
 
 ### Usage
 
